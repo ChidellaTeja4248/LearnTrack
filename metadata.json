@@ -1,0 +1,5 @@
+{
+  "name": "LearnTrack",
+  "description": "A comprehensive personal learning tracker with streaks, goals, analytics, and a Pomodoro timer.",
+  "requestFramePermissions": []
+}
